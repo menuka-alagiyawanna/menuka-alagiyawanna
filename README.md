@@ -1,4 +1,3 @@
-![Banner](https://www.google.com/search?sca_esv=35c0489e3bc6f627&sxsrf=ANbL-n7mD1LIy3os69ggkpyMix8u6UNALg:1774422523340&udm=2&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3vWUtYx0DZdicpfE1faGYek-FGtKxD7AwCl01PyIDDohkBrqR_lHRbrGbZdnSySokCn9LQyw2mDLkhlJM6OHYMRmcQscQ5eyp2Rsn4GkfiokKpYdj_Y0FMTyNKJPtQgm1VVeH1FfZ3dx5KDArfBMlHYeAE-AApXrtNEGUZBDYnDS-YCj3w&q=computer+science+4k+wallpaper+free+download&sa=X&ved=2ahUKEwjeo72Bv7qTAxVvRmcHHeKIKEMQtKgLegQIFhAB&biw=1920&bih=947&dpr=1#sv=CAMSVhoyKhBlLVh4V3JRdzA1OW13T0FNMg5YeFdyUXcwNTltd09BTToOMGhyWDQ3Wk1hYjdiQ00gBCocCgZtb3NhaWMSEGUtWHhXclF3MDU5bXdPQU0YADABGAcgvaWJjA4wAkoIEAEYASABKAE)
 # 👋 Hi, I'm Menuka Nadeesh Alagiyawanna
 
 🚀 Computer Scince undergraduate Student at Cardiff Metropolitan University 
