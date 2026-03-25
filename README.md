@@ -1,3 +1,7 @@
+
+![banner png](https://github.com/user-attachments/assets/449e0931-0c9a-42af-a2cd-4cf9ade79b68)
+Add profile banner image
+
 # 👋 Hi, I'm Menuka Nadeesh Alagiyawanna
 
 🚀 Computer Scince undergraduate Student at Cardiff Metropolitan University 
